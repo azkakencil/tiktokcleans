@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Cleaner",
+  "description": "Manage and analyze TikTok Likes, Favorites, and Reposts with Smart Delete Analysis, real video thumbnail previews, and Liquid Glass UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
